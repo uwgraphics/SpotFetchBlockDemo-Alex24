@@ -1,0 +1,26 @@
+<annotation>
+	<folder>block_images</folder>
+	<filename>frontright_0083.jpg</filename>
+	<path>C:\Users\Alex\Documents\Github\SpotDemos\block_images\frontright_0083.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>block</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>251</ymin>
+			<xmax>480</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>
